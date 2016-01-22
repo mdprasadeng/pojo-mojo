@@ -13,6 +13,8 @@
 hs_err_pid*
 ### Gradle template
 .gradle
+.gradlew
+.gradlew.bat
 build/
 
 # Ignore Gradle GUI config
